@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows;
 
-namespace WPF_JSON_Viccek
+namespace WPF_JSON_HttpClient_Viccek
 {
 	/// <summary>
 	/// Interaction logic for App.xaml

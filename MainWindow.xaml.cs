@@ -11,7 +11,7 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.Net.Http.Headers;
 
-namespace WPF_JSON_Viccek
+namespace WPF_JSON_HttpClient_Viccek
 {
 
 	public partial class MainWindow : Window
